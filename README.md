@@ -5,7 +5,7 @@
 
 ### I'm graduated as a Civil Engineer 👷...
 ### ...found happiness as a front-end web developer 👨‍💻 😁
-<br />
+
 
 ## Curiosities:
 - Born in Brazil
