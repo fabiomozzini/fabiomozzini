@@ -7,16 +7,17 @@
 ### ...found happiness as a front-end web developer 👨‍💻 😁
 <br />
 
+## Curiosities:
 - Born in Brazil
 - Italian blood
 - Discovering the life in France
 <br />
 
-### Connect with me:
+## Connect with me:
 
 [![website](./icons/linkedIn.png)](https://www.linkedin.com/in/fabio-mozzini-beng-36384138#gh-light-mode-only)
 
-### Languages and Tools:
+## Languages and Tools:
 
 [![alt text](./icons/Visual_Studio_Code_1.35_icon.svg.png)](#)
 &nbsp;&nbsp;
