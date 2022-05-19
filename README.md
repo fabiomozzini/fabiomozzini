@@ -11,7 +11,6 @@
 - Born in Brazil
 - Italian blood
 - Discovering the life in France
-<br />
 
 ## Connect with me:
 
