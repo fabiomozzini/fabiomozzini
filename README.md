@@ -1,4 +1,7 @@
-# Hi there, I'm Fabio 👋
+<h1 align="center">
+  Hi there, I'm Fabio 👋
+</h1>
+
 
 ### I'm graduated as a Civil Engineer 👷...
 ### ...found happiness as a front-end web developer 👨‍💻 😁
