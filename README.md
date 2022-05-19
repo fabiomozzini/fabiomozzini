@@ -1,9 +1,9 @@
 # Hi there, I'm Fabio 👋
 
 ## I'm graduated as a Civil Engineer 👷, but now I'm a front-end web developer 👨‍💻 😁
-- :brazil: Born in Brazil :brazil:
-- 🇮🇹 Italian blood 🇮🇹
-- 🇫🇷 Discovering the life in France 🇫🇷
+- Born in Brazil
+- Italian blood
+- Discovering the life in France
 
 ### Connect with me:
 
