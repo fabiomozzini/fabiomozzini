@@ -1,7 +1,7 @@
 # Hi there, I'm Fabio 👋
 
-## I'm graduated as a Civil Engineer 👷...
- ...found happiness as a front-end web developer 👨‍💻 😁
+### I'm graduated as a Civil Engineer 👷...
+### ...found happiness as a front-end web developer 👨‍💻 😁
 
 - Born in Brazil
 - Italian blood
