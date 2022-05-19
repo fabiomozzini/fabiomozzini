@@ -2,8 +2,6 @@
 
 ## I'm graduated as a Civil Engineer, but I migrated to become a front-end web developer 👨‍💻 😁
 
-- 📚 I’m a forever learner 🕵️‍♂️
-
 ### Connect with me:
 
 [![website](./icons/linkedIn.png)](https://www.linkedin.com/in/fabio-mozzini-beng-36384138#gh-light-mode-only)
