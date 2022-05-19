@@ -2,12 +2,12 @@
 
 ### I'm graduated as a Civil Engineer 👷...
 ### ...found happiness as a front-end web developer 👨‍💻 😁
+<br />
 
 - Born in Brazil
 - Italian blood
 - Discovering the life in France
-
-
+<br />
 
 ### Connect with me:
 
