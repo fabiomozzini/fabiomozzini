@@ -14,7 +14,7 @@
 
 ## Connect with me:
 
-[![website](./icons/linkedIn.png)](https://www.linkedin.com/in/fabio-mozzini-beng-36384138#gh-light-mode-only)
+[![website](./icons/linkedIn.png)](https://www.linkedin.com/in/fabio-mozzini#gh-light-mode-only)
 
 ## Languages and Tools:
 
