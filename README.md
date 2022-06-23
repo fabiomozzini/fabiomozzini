@@ -10,7 +10,7 @@
 ## Curiosities:
 - Born in Brazil
 - Italian blood
-- Discovering the life in France
+- Living in France
 
 ## Connect with me:
 
